@@ -17,9 +17,9 @@ Constructing this text editor deepened my understanding of data persistence mech
 To install and run the application, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory using the terminal.
-3. Run npm install to install the required dependencies.
-4. Run npm run start to start the backend and serve the client.
-5. Run npm run build and npm run start:dev to run application.
+3. Run `npm install` to install the required dependencies.
+4. Run `npm run start` to start the backend and serve the client.
+5. Run `npm run build` and `npm run start:dev` to run application.
 6. Open your web browser and navigate to the provided local URL.
 
 ## Usage
@@ -32,11 +32,21 @@ To install and run the application, follow these steps:
 7. The application employs a service worker created with workbox, enabling the caching of static assets for offline use.
 
 Git Hub Repository:
+https://github.com/calzu0821/text-editor-PWA.git
 
+Heroku deployed site:
+https://text-editor-calzu0821-db1f7f3224b1.herokuapp.com/
 
 ## Credits
 I used the following third-party assets in this project:
-- 
+- https://youtu.be/sFsRylCQblw
+- https://youtu.be/egmwY9n6qWY
+- https://youtu.be/IZGNcSuwBZs
+- https://youtu.be/ksXwaWHCW6k
+- https://youtu.be/PL2DG9LJoVQ
+- https://youtu.be/-AzFQN9Vp7k
+- https://youtu.be/yZ26CXny3iI
+- https://youtu.be/UjYW_ggjHmk
 
 ## License
 N/A
